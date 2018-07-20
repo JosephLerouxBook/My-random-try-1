@@ -1,0 +1,57 @@
+p
+{
+  font-size: 29px;
+}
+.mot1
+{
+  color :  rgb(255, 0, 0);
+}
+.mot2
+{
+  color : rgb(255, 128, 0);
+}
+.mot3
+{
+  color : rgb(255, 255, 0);
+}
+.mot4
+{
+  color : rgb(128, 255, 0);
+}
+.mot5
+{
+  color : rgb(0, 255, 0);
+}
+.mot6
+{
+  color : rgb(0, 255, 128);
+}
+.mot7
+{
+  color : rgb(0, 255, 255);
+}
+.mot8
+{
+  color : rgb(0, 128, 255);
+}
+.mot9
+{
+  color : rgb(0, 0, 255);
+}
+.mot10
+{
+  color : rgb(128, 0, 255);
+}
+.mot11
+{
+  color : rgb(255, 0, 255);
+}
+.mot12
+{
+  color : rgb(255, 0, 128);
+}
+.mot13
+{
+  color : rgb(255, 0, 0);
+}
+
